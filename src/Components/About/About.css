@@ -1,0 +1,52 @@
+.about{
+    width: 100vw;
+    max-width: 80%;
+    margin: 0 auto;
+    padding:50px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.about p{
+    text-align: justify;
+    text-indent: 50px;
+    /* font-family: "Lora", serif; */
+    font-size: 1rem;
+    line-height: 25px;
+}
+.about-heading{
+    font-size: 2rem;
+    font-weight: 500;
+    color: gold;
+}
+
+.about .btn{
+    margin: 0 auto;
+}
+.about .btn button{
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+    .about{
+        max-width: 100%;
+    }
+    .about p{
+        font-size: 14px;
+        line-height: 22px;
+        word-break: break-all;
+    }
+    .about-heading{
+        font-size: 1.5rem;
+    }
+}
