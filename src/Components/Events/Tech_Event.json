@@ -2,61 +2,51 @@
     "Event":[{"heading":[{
         "img":"https://visme.co/blog/wp-content/uploads/2021/05/powerpoint-presentation-tips-header.png",
         "eventname":"Paper Presentation",
-        "eventdes":"eventdes",
-        "titles":["hello","topic"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "eventdes":"Participants can present paper or ideas in any of the domain given in the google form. Participants must finish their presentation within 6 minutes and a 2 minutes for queries will follow up.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Ravi Kumar",
+            "number":"8220903724"
+        }]
     },
     {
         "img":"https://png.pngtree.com/png-vector/20220714/ourmid/pngtree-debugging-development-process-it-software-png-image_5702236.png",
         "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "eventdes":"Participants will be presented with a complex code. They have to decode it and find the errors occor in it and then they what to correct it with the given time it has nearly 5 to 10 programs are given for each participants.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Sakthivel",
+            "number":"9344056054"
+        }]
     },
     {
         "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149383352.jpg",
         "eventname":"Coding Challenge",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "eventdes":"Participants will be provided with a some of coding questions. in this the participant wants to answers the each and every question within time. In the the participant who completed the all questions firts they well be the winners.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Sri Ranjan",
+            "number":"9345486069"
+        }]
     },
     {
-        "img":"",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://png.pngtree.com/png-clipart/20220601/original/pngtree-isometric-exhibition-people-expo-stand-png-image_7821202.png",
+        "eventname":"Project Expo",
+        "eventdes":"In this the participants can explain about their own project with PPT and Source within the give time (10mins) for more info just contact the coordinator.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Alex Raj",
+            "number":"6382900549"
+        }]
     },
     {
-        "img":"",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
-    },
-    {
-        "img":"",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://previews.123rf.com/images/ponsuwan/ponsuwan1502/ponsuwan150200055/36644504-vector-brochure-flyer-magazine-cover-booklet-poster-design-template-layout-education-annual-report.jpg",
+        "eventname":"Poster Design",
+        "eventdes":"In this the participants can Design a creative and Innovative Poster for the educational theme. In this participants can design it in their home and bring the design the creative designs can selected for winner.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Bhuvanesh",
+            "number":"6380066531"
+        }]
     }]}]
 }

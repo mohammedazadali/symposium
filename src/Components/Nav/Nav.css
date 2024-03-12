@@ -1,14 +1,19 @@
 .nav{
     display: flex;
     width: 100vw;
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
     padding: 20px;
     justify-content: space-between;
 }
-
-
-
+.logo{
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+}
+.bar{
+    display: none;
+}
 
 
 
@@ -24,5 +29,13 @@
 @media screen and (max-width:600px) {
     .nav{
         max-width: 100%;
+        padding-top: 30px;
+        align-items: center;
+    }
+    .bar{
+        display: none;
+    }
+    .logo{
+        font-size: 1.2rem;
     }
 }

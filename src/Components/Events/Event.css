@@ -1,6 +1,6 @@
 .events{
         width: 100vw;
-        max-width: 80%;
+        max-width: 90%;
         margin: 0 auto;
         padding:50px 20px 20px 20px;
         gap: 15px;
@@ -11,10 +11,12 @@
     gap: 40px;
 }
 .data{
-    background: #9b9b9b;
-    width:350px;
+    background: #464646;
+    width:400px;
     border-radius: 20px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .event-head{
     font-size: 2rem;
@@ -25,7 +27,7 @@
 .data img{
     width: 100%;
     border-radius: 20px 20px 0 0;
-    max-height: 200px;
+    height: 200px;
 }
 .datas{
     padding: 30px;
@@ -37,6 +39,41 @@
     padding-bottom: 40px;
     padding-top:50px ;
 }
+.datas{
+    text-align: justify;
+}
+.datas p{
+    margin-bottom: 20px;
+}
+.eventname{
+    color: gold;
+    margin-bottom: 12px;
+}
+.coo{
+    padding: 30px;
+    
+}
+.coo-list{
+    width: 100%;
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.coo-list .table-des,.table-head{
+    border: 1px solid white;
+    padding: 10px;
+}
+.coo-head{
+    padding: 0 0 0 30px;
+    font-size: 1.3rem;
+    color: gold;
+}
+.coo-title{
+    font-size: 1.3rem;
+    margin-bottom: 12px;
+}
+
 
 
 @media screen and (max-width:600px) {

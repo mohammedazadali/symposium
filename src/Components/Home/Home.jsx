@@ -5,6 +5,7 @@ function Home() {
   return (
     <div className="home">
         <div className="right-home">
+            <span className="welcome">Welcome To</span>
             <h1 className='home-heading'>TECHNOKRATZ-2K24</h1>
             <span>National Level Technical Symposium</span>
             <p className='home-right-para'>
@@ -39,7 +40,11 @@ function Home() {
             </div>
         </div>
         <div className="left-home">
-
+                <img className="left-home-img"src="https://www.movietalkies.com/wp-content/uploads/2018/07/rani-muek.jpg" alt="" />
+                <div className="content">
+                <p>Chief Guest</p>
+                <p>Name</p>
+                </div>
         </div>
     </div>
   )

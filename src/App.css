@@ -1,0 +1,89 @@
+.top-to-btm{
+    position: relative;
+  }
+  .icon-position{
+    position: fixed;
+    top: 80%;
+    left: 95%;
+    z-index: 20;
+  }
+  .icon-style{
+    background-color:rgb(255, 194, 40);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    animation: movebtn 3s ease-in-out infinite;
+    transition: all .5s ease-in-out;
+  }
+  .icon-style:hover{
+    animation: none;
+    background: #fff;
+    color:rgb(255, 194, 40);
+    border: 2px solidrgb(255, 77, 0);
+  }
+
+.college{
+    width: 100vw;
+    max-width: 80%;
+    margin: 0 auto;
+    padding:10px 10px 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.college-img{
+    height: 200px;
+    
+}
+.logo-img{
+    height: 200px;
+}
+  @keyframes movebtn {
+    0%{
+      transform: translateY(0px);
+    }
+    25%{
+      transform: translateY(20px);
+    }
+    50%{
+      transform: translateY(0px);
+    }
+    75%{
+      transform: translateY(-20px);
+    }
+    100%{
+      transform: translateY(0px);
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media screen and (max-width:992px) {
+    .icon-position{
+        left: 85%;
+    }
+    .college{
+        padding-bottom: 0;
+        flex-direction: column;
+    }
+    .college-img{
+       width: 100%;
+        height: 100px;
+    }
+}

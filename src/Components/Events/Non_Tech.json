@@ -1,62 +1,62 @@
 {
     "Event":[{"nontech":[{
-        "img":"https://visme.co/blog/wp-content/uploads/2021/05/powerpoint-presentation-tips-header.png",
-        "eventname":"Paper Presentation",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://static.vecteezy.com/system/resources/previews/023/423/659/non_2x/a-filmmaker-shoots-a-short-film-to-submit-to-a-festival-vector.jpg",
+        "eventname":"Short Flim",
+        "eventdes":"In this the participants can present their short flim based on education and technology.From virtual classrooms to cutting-edge teaching tools, each film will inspire reflection on the profound impact technology has on the way we acquire knowledge and shape the future of education.Duriation: 10mins  ",
+        "titles":[],
+        "coordinate":[{
+            "name":"Jeevanandhan",
+            "number":"9361770468"
+        }]
     },
     {
-        "img":"https://png.pngtree.com/png-vector/20220714/ourmid/pngtree-debugging-development-process-it-software-png-image_5702236.png",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://images.all-free-download.com/images/graphiclarge/puzzle_joints_background_colored_3d_design_6829363.jpg",
+        "eventname":"Puzzle",
+        "eventdes":"Embark on a thrilling journey of intellect and ingenuity at our 'Technokartz' event! This immersive puzzle extravaganza is designed to challenge your wits, spark your creativity, and foster collaboration among enthusiasts of all ages.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Kumaresan",
+            "number":"9360966433"
+        }]
     },
     {
-        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149383352.jpg",
-        "eventname":"Coding Challenge",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://static.vecteezy.com/system/resources/previews/019/683/902/original/editable-line-pack-of-9-simple-filledline-flat-colors-of-science-signal-football-connection-game-editable-design-elements-free-vector.jpg",
+        "eventname":"Connection Game",
+        "eventdes":"Embark on a journey of meaningful connections at our event, Connection Game. In this the participants can connect the given images and find the actual result the participants can participate with their team mates each team should have 2 members .",
+        "titles":[],
+        "coordinate":[{
+            "name":"Ponprasanth",
+            "number":"8489796652"
+        }]
     },
     {
-        "img":"",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://static.vecteezy.com/system/resources/previews/007/819/435/original/advertising-or-ads-illustration-for-mobile-social-media-campaign-business-promotion-brand-and-digital-marketing-in-flat-cartoon-style-vector.jpg",
+        "eventname":"Ads Marketting",
+        "eventdes":"Prepare yourself for an immersive journey into the dynamic world of advertising and marketing at our spectacular event, This electrifying experience is not just an event; it's a celebration of creativity, innovation, and the limitless potential of ads marketing.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Sanjai",
+            "number":"6382416054"
+        }]
     },
     {
-        "img":"",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://staticg.sportskeeda.com/editor/2020/04/ee8e6-15864350554495-800.jpg",
+        "eventname":"Free Fier & PUBG",
+        "eventdes":"Get ready for an adrenaline-packed showdown at our Technokartz. It's a gamer's paradise as we bring you the ultimate Free Fire and PUBG event, where the excitement is as free-flowing as the action. In this the participants can allow to play a room match(50 members).",
+        "titles":[],
+        "coordinate":[{
+            "name":"Sanjai Kumar",
+            "number":"9361462216"
+        }]
     },
     {
-        "img":"",
-        "eventname":"Debugging",
-        "eventdes":"eventdes",
-        "titles":["hello","hi"],
-        "coordinate":{
-            "name":"hh",
-            "number":"jrhtrhg"
-        }
+        "img":"https://img.freepik.com/free-vector/true-false-text-effect-editable-cartoon-kids-text-style_314614-1993.jpg",
+        "eventname":"True Or False",
+        "eventdes":"In this the participants will provided with the two conditions  Therefore, the concept and details mentioned in the event description are not based on real events, and it is neither true nor false in the context of describing an actual event.",
+        "titles":[],
+        "coordinate":[{
+            "name":"Vetrivel",
+            "number":"9025845468"
+        }]
     }]}]
 }
